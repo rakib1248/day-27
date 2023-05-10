@@ -1,0 +1,84 @@
+@media (max-width:1200px) 
+{
+    .header {
+       
+        padding-top: 20px;
+    }
+
+   .menu li a {
+    
+    padding: 0px 11px;
+    font-size: 18px;
+    margin: 0px 0px;
+    
+}
+.flaot-left {
+    text-align: center;
+    
+    font-size: 18px;
+}
+    
+}
+
+@media (max-width:1080px) {
+    .service-itam {
+      
+        width: 50%;
+       
+    }
+}
+
+
+@media (max-width:900px) {
+
+    .menu li a {
+    
+       
+        font-size: 14px;
+
+        
+        
+ 
+}
+}
+@media (max-width:700px) {
+
+    .service-itam {
+      
+        width: 100%;
+       
+    }
+    .contact-item {
+        
+        width: 100%;
+       
+    }
+    .float-l img {
+        max-width: 128%;
+    }
+    .menu-logo {
+       
+        opacity: 1;
+        visibility: visible;
+    }
+    .menu{
+        display: none;
+    }
+
+
+}
+@media (max-width:500px) {
+    .socail ul li i {
+    
+        
+        width: 3px;
+       
+        font-size: 21px;
+    }
+    .service-itam {
+     
+        margin-bottom: 20px;
+        
+    }
+
+}
